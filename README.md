@@ -2,7 +2,7 @@
 ## Overview
 This project implements a *Random Forest Classifier* to predict whether a user will purchase a product based on their age and estimated salary, using the "Social_Network_Ads" dataset from Kaggle. It compares the Random Forest model with a Decision Tree Classifier, evaluates performance, and includes data visualization.
 
-For a more detailed description, see the `document.pdf` file in this repository.
+For a more detailed description, see the `Document.pdf` file in this repository.
 
 ## Dataset
 - **Source**: Kaggle
